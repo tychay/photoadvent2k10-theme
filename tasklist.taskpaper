@@ -1,0 +1,74 @@
+- global style @done(2010-12-03)
+	- fix fonts @done(2010-12-03)
+	- remove background grey @done(2010-12-03)
+	- fix hyperlink underlining (and color) defaults @done(2010-12-03)
+	- fix padding and other mess @done(2010-12-03)
+	
+- modify header to look like phpadvent @done(2010-12-03)
+	- change phtoography advent calendar to PhotoAdvent @done(2010-12-03)
+	- write a routine to detect the year and store it as a global @done(2010-12-03)
+	- write routine to detect and add span file @done(2010-12-03)
+	- style photo advent 2010 @done(2010-12-03)
+	- choose subtitle for homepage @done(2010-12-03)
+	- add subscribe to our feed in header @done(2010-12-03)
+	- add twitter functionality (via plugin) @done(2010-12-03)
+	- format subscribe/follow list in header @done(2010-12-03)
+	- horizontal rule @done(2010-12-03)
+	- remove graphic @done(2010-12-03)
+	- remove menu @done(2010-12-03)
+	- fix padding and other mess @done(2010-12-03)
+
+- make footer @done(2010-12-03)
+	- add subscribe or follow @done(2010-12-03)
+	- add curated by @done(2010-12-03)
+	- add licensing @done(2010-12-03)
+	- add powered by wordpress @done(2010-12-03)
+	- change rule and fonts @done(2010-12-03)
+
+- make index page content @done(2010-12-03)
+	- empty page case @done(2010-12-03)
+	- grab all posts in date @done(2010-12-03)
+	- inject about @done(2010-12-03)
+	- add random greeting @done(2010-12-03)
+	- make sheet for homepage @done(2010-12-03)
+
+- article @done(2010-12-03)
+	- templatize post @done(2010-12-03)
+	-  lightbox working @done(2010-12-03)
+	- remove top navigation @done(2010-12-03)
+	- style title @done(2010-12-03)
+	- style byline @done(2010-12-03)
+	- style bio @done(2010-12-03)
+	- style photo @done(2010-12-03)
+	- lightbox photo @done(2010-12-03)
+	- add url @done(2010-12-03)
+	- add location @done(2010-12-03)
+	- add twitter @done(2010-12-03)
+	- add and style footer navigation @done(2010-12-03)
+	- handle comment linking case @done(2010-12-03)
+	- comment linking (comment_url) @done(2010-12-04)
+	- style comments (basic) @done(2010-12-04)
+	- deal with entry-utility class (category and tags)
+
+- server settings @done(2010-12-03)
+	- modify url to be year and postname @done(2010-12-03)
+	- add author to urls @done(2010-12-03)
+
+- enhancements
+	- feedburner feed setup @done(2010-12-03)
+	- add lightbox support @done(2010-12-03)
+	- wordpress stats setup @done(2010-12-04)
+	- add iphone version via wptouch @done(2010-12-04)
+	- add facebook gravatar if missing @done(2010-12-04)
+	- add flickr url if missing @done(2010-12-04)
+	- local gravatar support
+	- test print stylesheet
+	- add print stylesheet to header
+	- add wptouch to terrychay.com (sidewide activation)
+
+- promotion
+	- add facebook like to homepage @done(2010-12-04)
+	- add facebook like to each page via share and like @done(2010-12-04)
+	- add tweet this via share and like @done(2010-12-04)
+	- add twitter autopost
+	- add a description/bio to twitter account

@@ -1,0 +1,90 @@
+/*
+ * Client:		phpadvent.org
+ * Variant:	Print
+ * Author:		Jon Gibbins
+ * Date:		03/12/2008
+ * ----------------------------------------*/
+
+body{
+	font: 16px Baskerville, "Baskerville Old Face", "Constantia", Georgia, "Times New Roman", serif;
+	color: #000;
+	text-align: left;
+	margin: 0 33px;
+}
+
+.header ul,
+.footer h2,
+.blurb h2,
+.index li h2 strong span,
+h1 tt,
+.flow,
+.footer h2 + p{
+	display: none;
+}
+
+a{
+	color: inherit;
+	text-decoration: none;
+}
+a img{
+	border: 0;
+}
+
+.header h1{
+	font-size: 2.75em;
+	font-weight: 400;
+	margin: 0;
+}
+.header h1 span{
+	font-size: 1.636em;
+	font-style: italic;
+	text-transform: lowercase;
+}
+.header h1 em{
+	font-size: 0.546em;
+	line-height:1em;
+	font-style: italic;
+	color: #000;
+	position: absolute;
+	left: 0;
+	top: 6em;
+}
+
+.header{
+	position: relative;
+	padding: 1.313em 0 1.438em;
+	border-top: 0.25em solid #ddc;
+	border-bottom: 0.063em solid #c9bfbf;
+}
+
+.entry-info{
+	padding-top: 2.25em;
+}
+
+.author{
+	border-top: 0.063em solid #c9bfbf;
+	border-bottom: 0.25em solid #ddc;
+	padding-top: 0;
+}
+
+.author img{
+	float: right;
+	margin: 0.31em 0 0.75em 0.75em;
+}
+
+.author ul{
+	list-style: none;
+}
+.author ul li{
+	font-size: 1em;
+	line-height: 1.5em;
+	margin-bottom: 0.75em;
+}
+.author ul li span{
+	font-style: italic;
+	float: left;
+	display: block;
+	width: 5em;
+}
+
+
